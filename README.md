@@ -6,13 +6,13 @@
   <b> 𝐉𝐀𝐒𝐌𝐈𝐍𝐄 𝐁𝐎𝐓 </b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/MrMKN/PROFESSOR-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
+[![Stars](https://img.shields.io/github/stars/thedexter45/Jasmine?style=flat-square&color=yellow)](https://github.com/thedexter45/Jasmine/stargazers)
+[![Forks](https://img.shields.io/github/forks/thedexter45/Jasmine?style=flat-square&color=orange)](https://github.com/thedexter45/Jasmine/fork)
+[![Size](https://img.shields.io/github/repo-size/thedexter45/Jasmine?style=flat-square&color=green)](https://github.com/thedexter45/Jasmine)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/thedexter45/Jasmine)   
+[![Contributors](https://img.shields.io/github/contributors/thedexter45/Jasmine?style=flat-square&color=green)](https://github.com/thedexter45/Jasmine/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/thedexter45/Jasmine/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/thedexter45/Jasmine.svg)](https://stars.medv.io/thedexter45/Jasmine)
 
 
 
