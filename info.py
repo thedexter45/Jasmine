@@ -52,7 +52,7 @@ FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', '𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 �
 RemoveBG_API = environ.get("RemoveBG_API", "")
 WELCOM_PIC = environ.get("WELCOM_PIC", "")
 WELCOM_TEXT = environ.get("WELCOM_TEXT", "𝐇𝐞𝐲 {user}\n 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 {chat}
-[𝙹𝚘𝚒𝚗 𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗𝚎𝚕](buttonurl://https://t.me/mc_moviescafe)")
+<a href=https://t.me/mc_moviescafe>🎞️𝙹𝚘𝚒𝚗 𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗𝚎𝚕</a>")
 PMFILTER = bool(environ.get("PMFILTER"))
 G_FILTER = bool(environ.get("G_FILTER", True))
 BUTTON_LOCK = bool(environ.get("BUTTON_LOCK", True))
