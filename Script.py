@@ -7,7 +7,7 @@ class script(object):
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝚁𝙰𝙸𝙻𝚆𝙰𝚈
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙹𝙰𝚂𝙼𝙸𝙽𝙴-𝙱𝙾𝚃 𝚟3.0.0"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: <a href=https://t.me/mc_imdbbot>𝙹𝙰𝚂𝙼𝙸𝙽𝙴-𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 : <a href=https://github.com/thedexter45/Jasmine>𝐉𝐀𝐒𝐌𝐈𝐍𝐄-𝐁𝐎𝐓</a>
